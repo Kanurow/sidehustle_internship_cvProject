@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1 {
+  text-align: center;
+}
+h6 {
+  background-color: silver;
+  font-size: 16px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+.date {
+  display: inline-block;
+  margin-top: 0px;
+  margin-right: 14px;
+  
+}
+.title {
+  margin-top: 0px;
+  display: inline-block;
+}
+p {
+  margin-left: 25px;
+}
+.inner_paragraph {
+  margin-left: 150px;
+}
